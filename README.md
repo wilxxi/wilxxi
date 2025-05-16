@@ -40,6 +40,6 @@ To support and strengthen your digital commerce landscape by enhancing efficienc
 
 ---
 
-📫 **Let’s connect**  
-Feel free to explore my repositories or reach out for collaboration opportunities.
+📄 **[View My Resume](./Wil_Resume.pdf)**  
+📫 **Let’s connect** — feel free to explore my repositories or reach out for collaboration opportunities.
 
